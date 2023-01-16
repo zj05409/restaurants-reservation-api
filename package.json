@@ -161,7 +161,7 @@
     "mysql": "^2.18.1",
     "nano": "^10.0.0",
     "node-emoji": "^1.11.0",
-    "read-pkg": "5.2.0",
+    "read-pkg": "7.1.0",
     "reflect-metadata": "^0.1.13",
     "routing-controllers": "0.9.0",
     "socket.io": "^4.5.4",
